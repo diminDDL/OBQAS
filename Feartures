@@ -1,0 +1,37 @@
+* up to 6 Li-ion cells
+Supported battery types:
+* li-ion
+* ni-mh
+* ni-cd
+* pb
+* More...
+
+Ratings:
+Maximum output voltage - 26V
+Maximum charging current - 6A
+Maximum charging power: ~150W
+
+Discharge:
+Maximum input voltage - 26V
+Maximum discharging current - 3A
+Maximum discharging power: ~75W
+
+Input voltage:
+24V
+
+Topology:
+buck-boost synchronous
+
+Additional features:
+5V USB output
+20x4 display with encoder
+USB for data logging and remote control
+SD card holds configuration parameters/standalone data logging
+Thermistor for battery monitoring
+
+
+
+
+TPS55288
+LTC3889
+https://www.ti.com/seclit/ml/slup346/slup346.pdf

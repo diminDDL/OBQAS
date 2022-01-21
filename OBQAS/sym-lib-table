@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "${KIPRJMOD}/lib/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
+  (lib (name "2022-01-21_16-08-53")(type "Legacy")(uri "${KIPRJMOD}/lib/TPS55288/2022-01-21_16-08-53/2022-01-21_16-08-53.lib")(options "")(descr ""))
+)
