@@ -1,4 +1,4 @@
-* up to 6 Li-ion cells
+* up to 5 Li-ion cells
 Supported battery types:
 * li-ion
 * ni-mh
@@ -7,9 +7,9 @@ Supported battery types:
 * More...
 
 Ratings:
-Maximum output voltage - 26V
-Maximum charging current - 6A
-Maximum charging power: ~150W
+Maximum output voltage - 22V
+Maximum charging current - 5A
+Maximum charging power: ~100W
 
 Discharge:
 Maximum input voltage - 26V
