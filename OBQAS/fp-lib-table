@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "LCD")(type "KiCad")(uri "${KIPRJMOD}/lib/LCD")(options "")(descr ""))
   (lib (name "SD")(type "KiCad")(uri "${KIPRJMOD}/lib/SD")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/Relay/footprints.pretty")(options "")(descr ""))
 )
