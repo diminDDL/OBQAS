@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TF_PUSH
+D SD CArd Connector
+K
+F https://datasheet.lcsc.com/szlcsc/1912111437_SHOU-HAN-TF-PUSH_C393941.pdf
+$ENDCMP
+#
+#End Doc Library
