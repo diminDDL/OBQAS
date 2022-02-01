@@ -4,4 +4,5 @@
   (lib (name "2022-01-22_12-19-34")(type "Legacy")(uri "${KIPRJMOD}/lib/Relay/2022-01-22_12-19-34.lib")(options "")(descr ""))
   (lib (name "IRLML2803TRPBF")(type "Legacy")(uri "${KIPRJMOD}/lib/IRLML2803TRPBF/IRLML2803TRPBF.lib")(options "")(descr ""))
   (lib (name "TF_PUSH")(type "Legacy")(uri "${KIPRJMOD}/lib/SD/TF_PUSH.lib")(options "")(descr ""))
+  (lib (name "HY2213-BB3A")(type "Legacy")(uri "${KIPRJMOD}/lib/HY2213/HY2213-BB3A.lib")(options "")(descr ""))
 )

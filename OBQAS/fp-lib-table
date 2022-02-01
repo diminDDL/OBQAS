@@ -3,4 +3,5 @@
   (lib (name "SD")(type "KiCad")(uri "${KIPRJMOD}/lib/SD")(options "")(descr ""))
   (lib (name "relay")(type "KiCad")(uri "${KIPRJMOD}/lib/Relay/footprints.pretty")(options "")(descr ""))
   (lib (name "TPS_IC")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS55288/2022-01-21_16-08-53/footprints.pretty")(options "")(descr ""))
+  (lib (name "HY2213")(type "KiCad")(uri "${KIPRJMOD}/lib/HY2213")(options "")(descr ""))
 )

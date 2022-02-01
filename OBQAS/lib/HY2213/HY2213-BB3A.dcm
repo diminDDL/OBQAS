@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HY2213-BB3A
+D PMIC - Battery Management SOT-23-6 RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/HYCON-Tech-HY2213-BB3A_C113632.pdf
+$ENDCMP
+#
+#End Doc Library
