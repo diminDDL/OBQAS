@@ -36,3 +36,6 @@ USB-C for data logging and remote control/outputs 5V 1A
 SD card holds configuration parameters/standalone data logging
 Thermocopule for battery monitoring
 ESP32 - WiFI/BLE
+
+### Pictures
+![3D render](https://github.com/diminDDL/OBQAS/blob/main/assets/3D.png)
